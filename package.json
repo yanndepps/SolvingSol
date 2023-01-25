@@ -1,0 +1,16 @@
+{
+  "name": "solvingsol",
+  "version": "1.0.0",
+  "description": "1.  [About](#org99aecbd)     1.  [Solving Sol](#org55d5c01) 2.  [Content ( TODO )](#orgf3e1c31) 3.  [Tools](#org42567bd) 4.  [Overview ( TODO )](#org8873524)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.6",
+    "p5": "^1.5.0"
+  }
+}
